@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/Version-2026_Release-blue?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows_10|11-informational?style=for-the-badge)]()
 
-## ✨ Features Overview
+## ✨ Features Overview:
 
 [![Aimbot](https://img.shields.io/badge/Aimbot-Smart_Targeting-important)]()
 [![ESP](https://img.shields.io/badge/ESP-Advanced_Visualization-yellow)]()
